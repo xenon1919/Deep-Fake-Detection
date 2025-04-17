@@ -1,5 +1,8 @@
 streamlit==1.16.0
-tensorflow==2.12.0
+tensorflow==2.16.0  # Update based on compatibility, can be 2.12.0 if you're using an older Python version
 gdown==4.7.0
 Pillow==8.4.0
 numpy==1.24.2
+matplotlib==3.6.0  # Optional, for better visualizations
+scikit-learn==1.1.2  # For machine learning models if you use them for any additional tasks
+requests==2.28.1  # For HTTP requests, if you need it for external APIs
