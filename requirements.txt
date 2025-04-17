@@ -1,5 +1,6 @@
 streamlit==1.16.0
-tensorflow==2.16.0  # Update based on compatibility, can be 2.12.0 if you're using an older Python version
+tensorflow==2.17.0
+# Update based on compatibility, can be 2.12.0 if you're using an older Python version
 gdown==4.7.0
 Pillow==8.4.0
 numpy==1.24.2
